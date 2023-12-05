@@ -4,7 +4,9 @@
 
 **Requirements**: https://docs.google.com/document/d/1djD0VMOxct1eiHj7tiv0HYmfNdgD4YXA1nGX4urJj_U/edit?usp=sharing
 
-**Link to Data Set**: https://www.tsa.gov/foia/readingroom?page=1
+**Link to TSA Data Set**: https://www.tsa.gov/foia/readingroom?page=1
+
+**Link to Weather API Data Set**: https://open-meteo.com/en/docs/historical-weather-api
 
 **Data Dictionary**: https://docs.google.com/spreadsheets/d/1IMv8EoMX21I7BfsayR2Qs0bNYVQoMm-qADgmQC2n_Bk/edit?usp=sharing
 
