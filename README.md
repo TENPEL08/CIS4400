@@ -16,7 +16,7 @@
 
 **Python Libraries Needed**: pdfplumber, pandas, os, azure-storage-blob, azure.storage.blob,geopy, openmetro_requests, requests_cache, retry_requests
 
-**Presentation**:
+**Presentation**: https://docs.google.com/presentation/d/1EuS2QrsZNMp_pGg0LIwexvZJP1ALPeWN-lgObN8_OzY/edit?usp=sharing
 
 **Final Dashboard**: [Insert Image]
 
