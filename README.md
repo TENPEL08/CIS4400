@@ -11,19 +11,17 @@
 
 **Data Model**: ![SAve](https://github.com/TENPEL08/CIS4400/assets/74534392/23ee5fc3-0690-483d-8d9b-cf12250e26ef)
 
+**Presentation**: https://docs.google.com/presentation/d/1EuS2QrsZNMp_pGg0LIwexvZJP1ALPeWN-lgObN8_OzY/edit?usp=sharing
+
 
 **Cloud Service**: Azure Storage Service, Azure Blob, Google BigQuery, Google Cloud Storage, Google Looker Studio
 
 **Python Libraries Needed**: pdfplumber, pandas, os, azure-storage-blob, azure.storage.blob,geopy, openmetro_requests, requests_cache, retry_requests, geopy, 
 
-**Presentation**: https://docs.google.com/presentation/d/1EuS2QrsZNMp_pGg0LIwexvZJP1ALPeWN-lgObN8_OzY/edit?usp=sharing
-
 **Final Dashboard**: [Insert Image]
 
 Steps:
-1. **Data-Sourcing**: Source the data set from the data set link (Insert_Script_Name)
-2. **Data-Storing**: Upload Data Set to Azure Blob Cloud Storage ('Insert_Script_Name' )
-3. **Data-Cleaning-Transforming**: Clean and Transform Data (Insert_Script_Name)
-4. **Data-Warehouse**: Design The Data Model, Create Script for Data Warehouse, Load Data into Data Warehouse (In-Progress)
-5. **Data-Analytics**: Load cleaned data set from Azure Synapse Analytics Data Warehouse to Tableau/PowerBi to create Dashboard
+1. **Data-ETL**: Extract, clean, transform, and load the data to a cloud storage service. (data-extract-transform-load_script)
+4. **Data-Warehouse**: Design The Data Model, Create Script for Data Warehouse, Load Data into Data Warehouse (dataWarehousingScript_groupProject)
+5. **Data-Analytics**: Load cleaned data set from Google BigQuery to LookerStudio to create Final Dashboard
 
