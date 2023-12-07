@@ -13,12 +13,16 @@
 
 **Presentation**: https://docs.google.com/presentation/d/1EuS2QrsZNMp_pGg0LIwexvZJP1ALPeWN-lgObN8_OzY/edit?usp=sharing
 
+**Data Visualization Dashboard**: https://lookerstudio.google.com/reporting/bbf45feb-7196-41bb-9c50-110a8b7ddeee
+
+**Final Dashboard**:
+<img width="794" alt="Screenshot 2023-12-07 at 3 25 04 AM" src="https://github.com/TENPEL08/CIS4400/assets/145724601/d51ce18f-9030-4170-be20-30328285cfc4">
+
 
 **Cloud Service**: Azure Storage Service, Azure Blob, Google BigQuery, Google Cloud Storage, Google Looker Studio
 
 **Python Libraries Needed**: pdfplumber, pandas, os, azure-storage-blob, azure.storage.blob,geopy, openmetro_requests, requests_cache, retry_requests, geopy, 
 
-**Final Dashboard**: [Insert Image]
 
 Steps:
 1. **Data-ETL**: Extract, clean, transform, and load the data to a cloud storage service. (data-extract-transform-load_script)
