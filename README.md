@@ -9,11 +9,12 @@
 
 **Data Dictionary**: https://docs.google.com/spreadsheets/d/1IMv8EoMX21I7BfsayR2Qs0bNYVQoMm-qADgmQC2n_Bk/edit?usp=sharing
 
-**Data Model**: [Insert Image Here]
+**Data Model**: ![SAve](https://github.com/TENPEL08/CIS4400/assets/74534392/23ee5fc3-0690-483d-8d9b-cf12250e26ef)
 
-**Cloud Service**: Azure Storage Service, Azure Blob, Azure Synapse Analytics (In-Progress)
 
-**Python Libraries Needed**: pdfplumber, pandas, os, azure-storage-blob, azure.storage.blob,geopy, openmetro_requests, requests_cache, retry_requests
+**Cloud Service**: Azure Storage Service, Azure Blob, Google BigQuery, Google Cloud Storage, Google Looker Studio
+
+**Python Libraries Needed**: pdfplumber, pandas, os, azure-storage-blob, azure.storage.blob,geopy, openmetro_requests, requests_cache, retry_requests, geopy, 
 
 **Presentation**: https://docs.google.com/presentation/d/1EuS2QrsZNMp_pGg0LIwexvZJP1ALPeWN-lgObN8_OzY/edit?usp=sharing
 
