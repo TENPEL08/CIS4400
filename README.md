@@ -1,6 +1,5 @@
 # Analyzing TSA Throughput Data and Historical Weather Information
 - A Data Warehousing for Analytics undergraduate student group project for CIS 4400 course.
-- Annualized sales file displays yearly sales information of properties sold in New York City.
 
 **Requirements**: https://docs.google.com/document/d/1djD0VMOxct1eiHj7tiv0HYmfNdgD4YXA1nGX4urJj_U/edit?usp=sharing
 
