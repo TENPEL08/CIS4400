@@ -1,6 +1,11 @@
 # Analyzing TSA Throughput Data and Historical Weather Information
 - A Data Warehousing for Analytics undergraduate student group project for CIS 4400 course.
 
+# Group Members:
+- Andy Chen
+- Gar Yan Mai (Carmen)
+- Tenzin Pelchok
+
 **Requirements**: https://docs.google.com/document/d/1djD0VMOxct1eiHj7tiv0HYmfNdgD4YXA1nGX4urJj_U/edit?usp=sharing
 
 **Link to TSA Data Set**: https://www.tsa.gov/foia/readingroom?page=1
